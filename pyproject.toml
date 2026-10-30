@@ -1,0 +1,9 @@
+[project]
+name = "hac2026-submission-ellipsoid"
+version = "1.0.0"
+description = "HAC2026 baseline submission: bounding-cylinder ellipsoids."
+requires-python = ">=3.11"
+dependencies = [
+    "trimesh>=4.12.2",
+    "numpy>=2.0",
+]
